@@ -1,3 +1,5 @@
+pip install gradio
+
 import gradio as gr
 from sklearn import tree
 
